@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/guo/Desktop/code/realworld/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/guo/Desktop/code/realworld/pages/home",
+        "_name": "_e6b6f374"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/guo/Desktop/code/realworld/pages/login",
+        "_name": "_08248ae2"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/guo/Desktop/code/realworld/pages/login",
+        "_name": "_08248ae2"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/guo/Desktop/code/realworld/pages/profile",
+        "_name": "_6a542ae2"
+      },
+      {
+        "path": "/setting",
+        "name": "setting",
+        "component": "/Users/guo/Desktop/code/realworld/pages/setting",
+        "_name": "_19b6a0ee"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/guo/Desktop/code/realworld/pages/editor",
+        "_name": "_203e15d8"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "articleDetail",
+        "component": "/Users/guo/Desktop/code/realworld/pages/article",
+        "_name": "_511e6e2f"
+      }
+    ],
+    "_name": "_08a0625e"
+  }
+]
